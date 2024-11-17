@@ -1,6 +1,6 @@
 .banner {
   position: relative; /* Conteneur parent pour que l'enfant puisse être positionné */
-  background-image: url("https:/www.carambarco.com/wp-content/uploads/2021/03/carambar-1600x784.jpg");
+  background-image: url("https://www.carambarco.com/wp-content/uploads/2021/03/carambar-1600x784.jpg");
   background-size: cover;
   background-position: center; /* Pour centrer l'image */
   background-color: #f9f9f9;
